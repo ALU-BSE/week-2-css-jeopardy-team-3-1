@@ -1,14 +1,24 @@
 /* Team 3: Profile Section CSS */
 /* Style the profile/about area with your team's creativity! */
 
-/* Example starter styles */
 .profile-section {
-    margin-bottom: 20px;
-    /* TODO: Add your styles here */
+    margin-bottom: 40px;
+    background: linear-gradient(135deg, #021e23, #134349);
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 4px 12px rgba(57, 80, 81, 0.1);
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .section-title {
-    /* TODO: Add your styles here */
+    font-size: 28px;
+    font-weight: bold;
+    color: #021e23;
+    margin-bottom: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    
 }
 
 .profile-img-container {
